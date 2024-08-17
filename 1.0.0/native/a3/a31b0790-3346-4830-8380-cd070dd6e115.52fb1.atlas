@@ -1,0 +1,20 @@
+
+bgFX_topItems.png
+size: 561,368
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+item_big
+  rotate: false
+  xy: 2, 152
+  size: 495, 214
+  orig: 556, 254
+  offset: 20, 27
+  index: -1
+item_small
+  rotate: false
+  xy: 2, 2
+  size: 557, 148
+  orig: 559, 165
+  offset: 2, 2
+  index: -1

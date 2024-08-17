@@ -1,0 +1,252 @@
+
+freeGame_start.png
+size: 1585,1585
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+bg_b
+  rotate: true
+  xy: 2, 436
+  size: 432, 936
+  orig: 432, 936
+  offset: 0, 0
+  index: -1
+box
+  rotate: false
+  xy: 2, 870
+  size: 1186, 713
+  orig: 1188, 713
+  offset: 1, 0
+  index: -1
+coin_a
+  rotate: false
+  xy: 718, 220
+  size: 207, 214
+  orig: 207, 214
+  offset: 0, 0
+  index: -1
+coin_b
+  rotate: true
+  xy: 1355, 317
+  size: 77, 60
+  orig: 77, 60
+  offset: 0, 0
+  index: -1
+coin_d
+  rotate: false
+  xy: 1190, 864
+  size: 245, 366
+  orig: 245, 372
+  offset: 0, 3
+  index: -1
+glow
+  rotate: false
+  xy: 2, 2
+  size: 435, 432
+  orig: 462, 462
+  offset: 16, 14
+  index: -1
+item_a
+  rotate: false
+  xy: 940, 396
+  size: 456, 466
+  orig: 456, 466
+  offset: 0, 0
+  index: -1
+item_b
+  rotate: true
+  xy: 439, 24
+  size: 201, 258
+  orig: 203, 262
+  offset: 1, 2
+  index: -1
+item_c
+  rotate: true
+  xy: 1187, 254
+  size: 140, 166
+  orig: 140, 166
+  offset: 0, 0
+  index: -1
+item_d
+  rotate: true
+  xy: 699, 49
+  size: 169, 177
+  orig: 169, 177
+  offset: 0, 0
+  index: -1
+item_e
+  rotate: true
+  xy: 1190, 1232
+  size: 351, 314
+  orig: 357, 318
+  offset: 3, 2
+  index: -1
+item_f
+  rotate: true
+  xy: 439, 227
+  size: 207, 277
+  orig: 207, 277
+  offset: 0, 0
+  index: -1
+item_g
+  rotate: false
+  xy: 927, 208
+  size: 258, 186
+  orig: 266, 188
+  offset: 4, 1
+  index: -1
+
+
+
+freeGame_start.jpg
+size: 1888,1888
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+fx_particle/bl_vfx_c_screen_00
+  rotate: true
+  xy: 516, 1508
+  size: 378, 371
+  orig: 378, 371
+  offset: 0, 0
+  index: -1
+fx_particle/bl_vfx_c_screen_01
+  rotate: true
+  xy: 516, 1128
+  size: 378, 371
+  orig: 378, 371
+  offset: 0, 0
+  index: -1
+fx_particle/bl_vfx_c_screen_02
+  rotate: true
+  xy: 2, 1065
+  size: 378, 371
+  orig: 378, 371
+  offset: 0, 0
+  index: -1
+fx_particle/bl_vfx_c_screen_03
+  rotate: true
+  xy: 1508, 748
+  size: 378, 369
+  orig: 378, 371
+  offset: 0, 2
+  index: -1
+fx_particle/bl_vfx_c_screen_04
+  rotate: false
+  xy: 375, 755
+  size: 378, 371
+  orig: 378, 371
+  offset: 0, 0
+  index: -1
+fx_particle/bl_vfx_c_screen_05
+  rotate: true
+  xy: 2, 685
+  size: 378, 371
+  orig: 378, 371
+  offset: 0, 0
+  index: -1
+fx_particle/bl_vfx_c_screen_06
+  rotate: false
+  xy: 755, 755
+  size: 378, 371
+  orig: 378, 371
+  offset: 0, 0
+  index: -1
+fx_particle/bl_vfx_c_screen_07
+  rotate: false
+  xy: 889, 1515
+  size: 378, 371
+  orig: 378, 371
+  offset: 0, 0
+  index: -1
+fx_particle/bl_vfx_c_screen_08
+  rotate: false
+  xy: 889, 1142
+  size: 378, 371
+  orig: 378, 371
+  offset: 0, 0
+  index: -1
+fx_particle/bl_vfx_c_screen_09
+  rotate: true
+  xy: 1508, 368
+  size: 378, 369
+  orig: 378, 371
+  offset: 0, 2
+  index: -1
+fx_particle/bl_vfx_c_screen_10
+  rotate: true
+  xy: 1135, 762
+  size: 378, 371
+  orig: 378, 371
+  offset: 0, 0
+  index: -1
+fx_particle/bl_vfx_c_screen_11
+  rotate: true
+  xy: 1269, 1508
+  size: 378, 371
+  orig: 378, 371
+  offset: 0, 0
+  index: -1
+fx_particle/bl_vfx_c_screen_12
+  rotate: true
+  xy: 1135, 382
+  size: 378, 371
+  orig: 378, 371
+  offset: 0, 0
+  index: -1
+fx_particle/bl_vfx_c_screen_13
+  rotate: false
+  xy: 375, 382
+  size: 378, 371
+  orig: 378, 371
+  offset: 0, 0
+  index: -1
+fx_particle/bl_vfx_c_screen_14
+  rotate: true
+  xy: 2, 305
+  size: 378, 371
+  orig: 378, 371
+  offset: 0, 0
+  index: -1
+fx_particle/bl_vfx_c_screen_15
+  rotate: true
+  xy: 755, 375
+  size: 378, 371
+  orig: 378, 371
+  offset: 0, 0
+  index: -1
+fx_particle/bl_vfx_c_screen_16
+  rotate: true
+  xy: 375, 2
+  size: 378, 371
+  orig: 378, 371
+  offset: 0, 0
+  index: -1
+fx_particle/bl_vfx_c_screen_17
+  rotate: false
+  xy: 1128, 9
+  size: 378, 371
+  orig: 378, 371
+  offset: 0, 0
+  index: -1
+fx_particle/bl_vfx_c_screen_18
+  rotate: false
+  xy: 748, 2
+  size: 378, 371
+  orig: 378, 371
+  offset: 0, 0
+  index: -1
+fx_particle/bl_vfx_c_screen_19
+  rotate: true
+  xy: 1508, 1128
+  size: 378, 371
+  orig: 378, 371
+  offset: 0, 0
+  index: -1
+fx_shine
+  rotate: false
+  xy: 2, 1445
+  size: 512, 441
+  orig: 512, 512
+  offset: 0, 26
+  index: -1

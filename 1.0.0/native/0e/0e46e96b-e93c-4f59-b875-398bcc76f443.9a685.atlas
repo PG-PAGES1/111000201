@@ -1,0 +1,20 @@
+
+infoBar_bgElements.png
+size: 563,95
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+items_a
+  rotate: false
+  xy: 336, 2
+  size: 225, 91
+  orig: 225, 91
+  offset: 0, 0
+  index: -1
+items_b
+  rotate: false
+  xy: 2, 4
+  size: 332, 89
+  orig: 332, 89
+  offset: 0, 0
+  index: -1

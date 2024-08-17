@@ -1,0 +1,83 @@
+
+bgFX_walkShadow.png
+size: 446,446
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+shadow_a/walk_01_normal_00
+  rotate: true
+  xy: 106, 342
+  size: 102, 195
+  orig: 102, 212
+  offset: 0, 2
+  index: -1
+shadow_a/walk_01_normal_01
+  rotate: false
+  xy: 106, 144
+  size: 85, 196
+  orig: 102, 212
+  offset: 1, 2
+  index: -1
+shadow_a/walk_01_normal_02
+  rotate: false
+  xy: 2, 237
+  size: 102, 207
+  orig: 102, 212
+  offset: 0, 1
+  index: -1
+shadow_a/walk_01_normal_03
+  rotate: false
+  xy: 303, 252
+  size: 102, 192
+  orig: 102, 212
+  offset: 0, 2
+  index: -1
+shadow_a/walk_01_normal_04
+  rotate: false
+  xy: 193, 137
+  size: 78, 203
+  orig: 102, 212
+  offset: 11, 2
+  index: -1
+shadow_a/walk_01_normal_05
+  rotate: false
+  xy: 2, 37
+  size: 102, 198
+  orig: 102, 212
+  offset: 0, 2
+  index: -1
+shadow_b/walk_02_normal_00
+  rotate: true
+  xy: 273, 165
+  size: 85, 154
+  orig: 102, 212
+  offset: 7, 30
+  index: -1
+shadow_b/walk_02_normal_01
+  rotate: false
+  xy: 360, 9
+  size: 81, 154
+  orig: 102, 212
+  offset: 10, 29
+  index: -1
+shadow_b/walk_02_normal_02
+  rotate: true
+  xy: 106, 68
+  size: 67, 157
+  orig: 102, 212
+  offset: 20, 29
+  index: -1
+shadow_b/walk_02_normal_03
+  rotate: false
+  xy: 273, 10
+  size: 85, 153
+  orig: 102, 212
+  offset: 5, 29
+  index: -1
+shadow_b/walk_02_normal_04
+  rotate: true
+  xy: 106, 2
+  size: 64, 158
+  orig: 102, 212
+  offset: 25, 29
+  index: -1

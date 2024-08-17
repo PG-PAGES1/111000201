@@ -1,0 +1,160 @@
+
+specials.png
+size: 886,348
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+s_m_fx01
+  rotate: true
+  xy: 536, 89
+  size: 116, 113
+  orig: 116, 113
+  offset: 0, 0
+  index: -1
+s_m_fx02
+  rotate: true
+  xy: 538, 230
+  size: 116, 113
+  orig: 116, 113
+  offset: 0, 0
+  index: -1
+s_m_fx03
+  rotate: true
+  xy: 651, 112
+  size: 116, 113
+  orig: 116, 113
+  offset: 0, 0
+  index: -1
+s_m_fx04
+  rotate: true
+  xy: 653, 230
+  size: 116, 113
+  orig: 116, 113
+  offset: 0, 0
+  index: -1
+s_m_fx05
+  rotate: false
+  xy: 768, 233
+  size: 116, 113
+  orig: 116, 113
+  offset: 0, 0
+  index: -1
+s_m_fx06
+  rotate: false
+  xy: 768, 118
+  size: 116, 113
+  orig: 116, 113
+  offset: 0, 0
+  index: -1
+s_m_fx07
+  rotate: false
+  xy: 766, 3
+  size: 116, 113
+  orig: 116, 113
+  offset: 0, 0
+  index: -1
+s_m_glow
+  rotate: true
+  xy: 2, 19
+  size: 139, 135
+  orig: 139, 135
+  offset: 0, 0
+  index: -1
+s_m_star
+  rotate: false
+  xy: 201, 3
+  size: 166, 161
+  orig: 166, 161
+  offset: 0, 0
+  index: -1
+s_m_starb
+  rotate: true
+  xy: 2, 160
+  size: 186, 180
+  orig: 186, 180
+  offset: 0, 0
+  index: -1
+s_m_starling
+  rotate: false
+  xy: 673, 18
+  size: 40, 41
+  orig: 40, 41
+  offset: 0, 0
+  index: -1
+s_s_basket
+  rotate: true
+  xy: 260, 171
+  size: 175, 122
+  orig: 175, 122
+  offset: 0, 0
+  index: -1
+s_s_basketB
+  rotate: true
+  xy: 139, 19
+  size: 139, 60
+  orig: 139, 60
+  offset: 0, 0
+  index: -1
+s_s_bottle
+  rotate: false
+  xy: 184, 166
+  size: 74, 180
+  orig: 74, 180
+  offset: 0, 0
+  index: -1
+s_s_canB
+  rotate: false
+  xy: 635, 30
+  size: 36, 57
+  orig: 36, 57
+  offset: 0, 0
+  index: -1
+s_s_canT
+  rotate: false
+  xy: 673, 61
+  size: 50, 49
+  orig: 50, 49
+  offset: 0, 0
+  index: -1
+s_s_handle
+  rotate: true
+  xy: 369, 2
+  size: 167, 71
+  orig: 167, 71
+  offset: 0, 0
+  index: -1
+s_s_mango
+  rotate: true
+  xy: 478, 179
+  size: 26, 36
+  orig: 26, 36
+  offset: 0, 0
+  index: -1
+s_s_milk
+  rotate: true
+  xy: 536, 17
+  size: 70, 97
+  orig: 70, 97
+  offset: 0, 0
+  index: -1
+s_s_vege
+  rotate: false
+  xy: 478, 207
+  size: 58, 139
+  orig: 58, 139
+  offset: 0, 0
+  index: -1
+txt_scatter_zh
+  rotate: true
+  xy: 384, 175
+  size: 171, 92
+  orig: 171, 92
+  offset: 0, 0
+  index: -1
+txt_scatterx_zh
+  rotate: true
+  xy: 442, 2
+  size: 171, 92
+  orig: 171, 92
+  offset: 0, 0
+  index: -1

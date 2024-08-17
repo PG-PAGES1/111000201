@@ -1,0 +1,69 @@
+
+iconWin_bgFX.jpg
+size: 454,454
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+fx_starBoom/wh_vfx_f_add_00
+  rotate: true
+  xy: 368, 134
+  size: 90, 84
+  orig: 256, 256
+  offset: 80, 89
+  index: -1
+fx_starBoom/wh_vfx_f_add_01
+  rotate: true
+  xy: 322, 320
+  size: 132, 130
+  orig: 256, 256
+  offset: 59, 62
+  index: -1
+fx_starBoom/wh_vfx_f_add_02
+  rotate: true
+  xy: 178, 322
+  size: 130, 142
+  orig: 256, 256
+  offset: 63, 54
+  index: -1
+fx_starBoom/wh_vfx_f_add_03
+  rotate: false
+  xy: 2, 282
+  size: 174, 170
+  orig: 256, 256
+  offset: 37, 40
+  index: -1
+fx_starBoom/wh_vfx_f_add_04
+  rotate: false
+  xy: 178, 224
+  size: 96, 96
+  orig: 256, 256
+  offset: 80, 80
+  index: -1
+fx_starBoom/wh_vfx_f_add_05
+  rotate: true
+  xy: 2, 186
+  size: 94, 96
+  orig: 256, 256
+  offset: 81, 81
+  index: -1
+fx_starBoom/wh_vfx_f_add_06
+  rotate: false
+  xy: 276, 226
+  size: 92, 92
+  orig: 256, 256
+  offset: 82, 83
+  index: -1
+fx_starBoom/wh_vfx_f_add_07
+  rotate: false
+  xy: 276, 134
+  size: 90, 90
+  orig: 256, 256
+  offset: 83, 83
+  index: -1
+fx_starBoom/wh_vfx_f_add_08
+  rotate: false
+  xy: 100, 134
+  size: 88, 88
+  orig: 256, 256
+  offset: 84, 84
+  index: -1

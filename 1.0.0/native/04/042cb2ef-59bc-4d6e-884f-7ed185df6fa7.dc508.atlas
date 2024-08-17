@@ -1,0 +1,167 @@
+
+scatter_bgFX.jpg
+size: 844,844
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+fx_bgFX/sc_vfx_b_screen_00
+  rotate: true
+  xy: 398, 496
+  size: 116, 186
+  orig: 120, 200
+  offset: 2, 7
+  index: -1
+fx_bgFX/sc_vfx_b_screen_01
+  rotate: true
+  xy: 586, 496
+  size: 116, 186
+  orig: 120, 200
+  offset: 2, 7
+  index: -1
+fx_bgFX/sc_vfx_b_screen_02
+  rotate: true
+  xy: 2, 382
+  size: 116, 188
+  orig: 120, 200
+  offset: 2, 6
+  index: -1
+fx_bgFX/sc_vfx_b_screen_03
+  rotate: true
+  xy: 192, 380
+  size: 116, 192
+  orig: 120, 200
+  offset: 2, 4
+  index: -1
+fx_bgFX/sc_vfx_b_screen_04
+  rotate: true
+  xy: 386, 378
+  size: 116, 196
+  orig: 120, 200
+  offset: 1, 2
+  index: -1
+fx_bgFX/sc_vfx_b_screen_05
+  rotate: true
+  xy: 584, 378
+  size: 116, 200
+  orig: 120, 200
+  offset: 1, 0
+  index: -1
+fx_bgFX/sc_vfx_b_screen_06
+  rotate: true
+  xy: 192, 260
+  size: 116, 200
+  orig: 120, 200
+  offset: 1, 0
+  index: -1
+fx_bgFX/sc_vfx_b_screen_07
+  rotate: true
+  xy: 394, 260
+  size: 116, 200
+  orig: 120, 200
+  offset: 1, 0
+  index: -1
+fx_bgFX/sc_vfx_b_screen_08
+  rotate: true
+  xy: 204, 614
+  size: 114, 196
+  orig: 120, 200
+  offset: 2, 2
+  index: -1
+fx_bgFX/sc_vfx_b_screen_09
+  rotate: true
+  xy: 2, 140
+  size: 118, 198
+  orig: 120, 200
+  offset: 1, 1
+  index: -1
+fx_bgFX/sc_vfx_b_screen_10
+  rotate: true
+  xy: 596, 260
+  size: 116, 200
+  orig: 120, 200
+  offset: 1, 0
+  index: -1
+fx_bgFX/sc_vfx_b_screen_11
+  rotate: true
+  xy: 402, 614
+  size: 114, 200
+  orig: 120, 200
+  offset: 2, 0
+  index: -1
+fx_bgFX/sc_vfx_b_screen_12
+  rotate: true
+  xy: 2, 730
+  size: 112, 200
+  orig: 120, 200
+  offset: 2, 0
+  index: -1
+fx_bgFX/sc_vfx_b_screen_13
+  rotate: true
+  xy: 204, 730
+  size: 112, 198
+  orig: 120, 200
+  offset: 1, 2
+  index: -1
+fx_bgFX/sc_vfx_b_screen_14
+  rotate: true
+  xy: 604, 614
+  size: 114, 194
+  orig: 120, 200
+  offset: 1, 3
+  index: -1
+fx_bgFX/sc_vfx_b_screen_15
+  rotate: true
+  xy: 404, 730
+  size: 112, 198
+  orig: 120, 200
+  offset: 2, 1
+  index: -1
+fx_bgFX/sc_vfx_b_screen_16
+  rotate: true
+  xy: 604, 730
+  size: 112, 200
+  orig: 120, 200
+  offset: 3, 0
+  index: -1
+fx_bgFX/sc_vfx_b_screen_17
+  rotate: true
+  xy: 2, 616
+  size: 112, 200
+  orig: 120, 200
+  offset: 4, 0
+  index: -1
+fx_bgFX/sc_vfx_b_screen_18
+  rotate: true
+  xy: 2, 500
+  size: 114, 200
+  orig: 120, 200
+  offset: 3, 0
+  index: -1
+fx_bgFX/sc_vfx_b_screen_19
+  rotate: true
+  xy: 204, 498
+  size: 114, 192
+  orig: 120, 200
+  offset: 4, 4
+  index: -1
+fx_bgFX/sc_vfx_b_screen_20
+  rotate: true
+  xy: 2, 264
+  size: 116, 188
+  orig: 120, 200
+  offset: 2, 6
+  index: -1
+fx_glow
+  rotate: false
+  xy: 450, 2
+  size: 256, 256
+  orig: 256, 256
+  offset: 0, 0
+  index: -1
+fx_shine
+  rotate: false
+  xy: 202, 12
+  size: 246, 246
+  orig: 246, 246
+  offset: 0, 0
+  index: -1

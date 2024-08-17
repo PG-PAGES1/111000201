@@ -1,0 +1,285 @@
+
+freeend.png
+size: 1798,1704
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+lizi/bw_vfx_b_add_00
+  rotate: true
+  xy: 2, 1364
+  size: 212, 236
+  orig: 212, 236
+  offset: 0, 0
+  index: -1
+lizi/bw_vfx_b_add_01
+  rotate: false
+  xy: 525, 1502
+  size: 212, 200
+  orig: 212, 236
+  offset: 0, 36
+  index: -1
+lizi/bw_vfx_b_add_02
+  rotate: false
+  xy: 739, 1500
+  size: 212, 202
+  orig: 212, 236
+  offset: 0, 34
+  index: -1
+lizi/bw_vfx_b_add_03
+  rotate: false
+  xy: 953, 1496
+  size: 212, 206
+  orig: 212, 236
+  offset: 0, 30
+  index: -1
+lizi/bw_vfx_b_add_04
+  rotate: false
+  xy: 1167, 1492
+  size: 212, 210
+  orig: 212, 236
+  offset: 0, 26
+  index: -1
+lizi/bw_vfx_b_add_05
+  rotate: true
+  xy: 240, 1307
+  size: 212, 214
+  orig: 212, 236
+  offset: 0, 22
+  index: -1
+lizi/bw_vfx_b_add_06
+  rotate: true
+  xy: 456, 1288
+  size: 212, 218
+  orig: 212, 236
+  offset: 0, 18
+  index: -1
+lizi/bw_vfx_b_add_07
+  rotate: true
+  xy: 676, 1286
+  size: 212, 220
+  orig: 212, 236
+  offset: 0, 16
+  index: -1
+lizi/bw_vfx_b_add_08
+  rotate: true
+  xy: 898, 1282
+  size: 212, 224
+  orig: 212, 236
+  offset: 0, 12
+  index: -1
+lizi/bw_vfx_b_add_09
+  rotate: true
+  xy: 1124, 1278
+  size: 212, 226
+  orig: 212, 236
+  offset: 0, 10
+  index: -1
+lizi/bw_vfx_b_add_10
+  rotate: true
+  xy: 1352, 1278
+  size: 212, 230
+  orig: 212, 236
+  offset: 0, 6
+  index: -1
+lizi/bw_vfx_b_add_11
+  rotate: true
+  xy: 2, 1150
+  size: 212, 230
+  orig: 212, 236
+  offset: 0, 6
+  index: -1
+lizi/bw_vfx_b_add_12
+  rotate: true
+  xy: 448, 1072
+  size: 212, 236
+  orig: 212, 236
+  offset: 0, 0
+  index: -1
+lizi/bw_vfx_b_add_13
+  rotate: true
+  xy: 686, 1068
+  size: 212, 236
+  orig: 212, 236
+  offset: 0, 0
+  index: -1
+lizi/bw_vfx_b_add_14
+  rotate: true
+  xy: 924, 1064
+  size: 212, 236
+  orig: 212, 236
+  offset: 0, 0
+  index: -1
+lizi/bw_vfx_b_add_15
+  rotate: false
+  xy: 1584, 1266
+  size: 212, 224
+  orig: 212, 236
+  offset: 0, 12
+  index: -1
+lizi/bw_vfx_b_add_16
+  rotate: false
+  xy: 234, 1077
+  size: 212, 228
+  orig: 212, 236
+  offset: 0, 8
+  index: -1
+lizi/bw_vfx_b_add_17
+  rotate: true
+  xy: 1162, 1064
+  size: 212, 230
+  orig: 212, 236
+  offset: 0, 6
+  index: -1
+lizi/bw_vfx_b_add_18
+  rotate: true
+  xy: 1394, 1052
+  size: 212, 234
+  orig: 212, 236
+  offset: 0, 2
+  index: -1
+lizi/bw_vfx_b_add_19
+  rotate: true
+  xy: 1381, 1492
+  size: 210, 236
+  orig: 212, 236
+  offset: 2, 0
+  index: -1
+lizi/bw_vfx_b_add_20
+  rotate: false
+  xy: 2, 912
+  size: 212, 236
+  orig: 212, 236
+  offset: 0, 0
+  index: -1
+tw_vfx_a_normal
+  rotate: true
+  xy: 1047, 726
+  size: 324, 702
+  orig: 324, 702
+  offset: 0, 0
+  index: -1
+tw_vfx_c_01_normal
+  rotate: false
+  xy: 2, 1586
+  size: 118, 116
+  orig: 118, 116
+  offset: 0, 0
+  index: -1
+tw_vfx_c_05_normal
+  rotate: true
+  xy: 382, 79
+  size: 344, 497
+  orig: 344, 497
+  offset: 0, 0
+  index: -1
+tw_vfx_c_07_normal
+  rotate: false
+  xy: 251, 1521
+  size: 272, 181
+  orig: 272, 181
+  offset: 0, 0
+  index: -1
+tw_vfx_c_09_normal
+  rotate: true
+  xy: 122, 1578
+  size: 124, 127
+  orig: 124, 127
+  offset: 0, 0
+  index: -1
+tw_vfx_c_10_normal
+  rotate: true
+  xy: 661, 754
+  size: 308, 384
+  orig: 308, 384
+  offset: 0, 0
+  index: -1
+tw_vfx_d_01_normal
+  rotate: true
+  xy: 394, 425
+  size: 327, 508
+  orig: 327, 508
+  offset: 0, 0
+  index: -1
+tw_vfx_d_02_normal
+  rotate: true
+  xy: 2, 96
+  size: 404, 378
+  orig: 404, 378
+  offset: 0, 0
+  index: -1
+tw_vfx_d_03_normal
+  rotate: false
+  xy: 216, 828
+  size: 443, 242
+  orig: 443, 242
+  offset: 0, 0
+  index: -1
+tw_vfx_d_04_normal
+  rotate: true
+  xy: 881, 2
+  size: 360, 617
+  orig: 360, 617
+  offset: 0, 0
+  index: -1
+tw_vfx_e_add
+  rotate: false
+  xy: 904, 392
+  size: 410, 332
+  orig: 410, 332
+  offset: 0, 0
+  index: -1
+tw_vfx_e_screen_01
+  rotate: true
+  xy: 2, 502
+  size: 324, 390
+  orig: 324, 390
+  offset: 0, 0
+  index: -1
+tw_vfx_g_normal
+  rotate: false
+  xy: 1316, 364
+  size: 430, 360
+  orig: 430, 428
+  offset: 0, 34
+  index: -1
+
+freeend2.png
+size: 1518,1284
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+mh_vfx_03_add
+  rotate: true
+  xy: 2, 2
+  size: 390, 425
+  orig: 390, 425
+  offset: 0, 0
+  index: -1
+tw_vfx_b_01
+  rotate: false
+  xy: 760, 498
+  size: 756, 784
+  orig: 756, 784
+  offset: 0, 0
+  index: -1
+tw_vfx_b_normal
+  rotate: false
+  xy: 2, 394
+  size: 756, 888
+  orig: 756, 888
+  offset: 0, 0
+  index: -1
+tw_vfx_d_05_normal
+  rotate: true
+  xy: 429, 10
+  size: 382, 512
+  orig: 382, 512
+  offset: 0, 0
+  index: -1
+tw_vfx_f_add
+  rotate: false
+  xy: 943, 33
+  size: 463, 463
+  orig: 463, 463
+  offset: 0, 0
+  index: -1
